@@ -1,0 +1,14 @@
+.table-header {
+    font: 27px "Cambria", Calibri;
+    color: black;
+}
+table, td, tr, th {
+    border: 1px solid black;
+    border-spacing: 0;
+    background-color: rgba(255, 0, 0, 0.4);
+    vertical-align: middle;
+}
+td, th {
+    padding: 8px;
+    text-align: left;
+}
